@@ -1,6 +1,6 @@
 # Tweet-Sentiment-Analysis
 <div align="center">
-<a target="_blank" href="https://colab.research.google.com/github/https://colab.research.google.com/drive/1adZD3bXG2Bi2oGErPCI2iHUoPvWwf4Y-">
+<a target="_blank" href="https://colab.research.google.com/drive/1adZD3bXG2Bi2oGErPCI2iHUoPvWwf4Y-?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a></div>
 
