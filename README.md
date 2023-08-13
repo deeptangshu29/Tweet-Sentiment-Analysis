@@ -5,8 +5,10 @@
 </a></div>
 
 **Team Name:** Pinnacle Fusion
-![](https://badgen.net/peertube/framatube.org/views/9c9de5e8-0a1e-484a-b099-e80766180a6d?icon=peertube)
+
 **Organization:** IBM Skillsbuild
+
+**Internship Duration:** 1 Month (June 2023 - July 2023)
 
 **Team Members / Contributors:** 
 - [Ankita Dutta](https://github.com/AnkitaDutta007),
