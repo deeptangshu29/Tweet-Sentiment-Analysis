@@ -14,7 +14,7 @@
 - [Ankita Dutta](https://github.com/AnkitaDutta007),
 - [Arnab Kumar Pati](https://github.com/arnab22pati),
 - **Deeptangshu Dutta**,
-- [Hrick Saha](https://github.com/Hrick878),
+- [Hrick Saha](https://github.com/Hrick878),that'sme
 - [Jit Kumar Naskar](https://github.com/JitKrNaskar),
 - [Snehashis Bhowmik](https://github.com/snehashis44),
 - [Soumi Das](https://github.com/Soumi-Das),
